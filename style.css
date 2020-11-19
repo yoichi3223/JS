@@ -94,3 +94,22 @@ ul.ddmenu li:hover ul {
   display: block;
   /* ★5:マウスポインタが載っている項目の内部にあるリストを表示する */
 }
+
+
+.main-contents {
+  width: 100%;
+}
+
+.form {
+  width: 50%;
+  height: 500px;
+  background-color: skyblue;
+  float: left;
+}
+
+.nav {
+  width: 50%;
+  height: 500px;
+  background-color: steelblue;
+  float: left;
+}
