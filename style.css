@@ -113,3 +113,12 @@ ul.ddmenu li:hover ul {
   background-color: steelblue;
   float: left;
 }
+
+.submenu ul {
+  list-style: none;
+
+}
+
+.hidden {
+  display: none;
+}
